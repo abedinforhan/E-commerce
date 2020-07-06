@@ -1,2 +1,56 @@
+.container{
+  margin-bottom: 100px;
 
+  }
 
+.bg-pinkish{
+    background-color: #feeae9;
+  }
+
+.buy-now-button{
+  background-image: linear-gradient(to bottom,#FF589B 0%,#FF136F 100%);
+  color: #FFF;
+  padding: 9px 25px;
+  border: none;
+  border-radius: 8px;
+  margin-top: 5px;
+  cursor: pointer;
+}
+
+.carousel-item{
+  padding: 20px 40px;
+}
+
+.bg-watch{
+  background-color: orange;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  
+
+}
+.bg-bag{
+  background-color: orchid;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.bg-shoes{
+  background-color: lightblue;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+#categories img{
+   height:150px;
+}
+
+.card-deck .card-footer{
+  background-color: #FFF;
+  border: none;
+}
+
+footer{
+  color: gray;
+}
